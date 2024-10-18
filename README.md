@@ -2,9 +2,9 @@
 
 ## Te raden woord
 
-|V| |S| |E|
+|V|I|S| |E|
 
-|x|-|x|-|x|
+|x|x|x|-|x|
 
 |1|2|3|4|5|
 
@@ -18,4 +18,4 @@
 * P Fout
 * B Fout
 * V Goed!!!  
-* I
+* I Goed

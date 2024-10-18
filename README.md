@@ -2,9 +2,9 @@
 
 ## Te raden woord
 
-|V|I|S| |E|
+|V|I|S|J|E|
 
-|x|x|x|-|x|
+|x|x|x|x|x|
 
 |1|2|3|4|5|
 
@@ -19,4 +19,4 @@
 * B Fout
 * V Goed!!!  
 * I Goed  
-* J
+* J JE HEBT GEWONNEN
